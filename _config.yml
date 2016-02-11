@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5440324
+  lightness: 0.1972373
+  brandStrength: 0.002449841
+  rhythmicContrast: 0.5561799
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+typography_spectrum: 0.661922
+name: Dr G Films
